@@ -9,11 +9,9 @@ Check out my website on CodePen: [View Website](https://codepen.io/Khansa-Urooj/
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation & Usage](#installation--usage)
+- [Prerequisites](#prerequisites)
+- [Installation & Usage](#installation--usage)
 - [How It Was Built](#how-it-was-built)
-- [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
 - [Credits](#credits)
 
@@ -25,9 +23,9 @@ This project is a **front-end mockup** of an IMDb-like interface—designed in C
 
 ## Demo
 
-Check out the live design here: [CodePen Preview](https://codepen.io/khansaurooj/…)
 
-*(Replace with the actual CodePen link if available)*
+Check out my website on CodePen: [View Website](https://codepen.io/Khansa-Urooj/full/azbyYEr)
+
 
 ## Features
 
@@ -41,10 +39,9 @@ Check out the live design here: [CodePen Preview](https://codepen.io/khansaurooj
 
 - **HTML5** – Structure of the UI elements.
 - **CSS3** – Styling, layout, and responsiveness.
-- **(Optional) JavaScript** – For basic interactivity (hover effects, tab switches).
+- **JavaScript** – For basic interactivity (hover effects, tab switches).
 - **CodePen** – Live design and prototyping environment.
 
-## Getting Started
 
 ### Prerequisites
 
@@ -68,9 +65,6 @@ Since this is a static design:
 - **Responsive design**: Media queries ensure layout adapts to different screen sizes.
 - **Static placeholders**: Used dummy images and text; no real API integration yet.
 
-## Screenshots
-
-*(Add screenshots from your design here—desktop and mobile views are helpful.)*
 
 ## Future Enhancements
 
@@ -93,15 +87,10 @@ Since this is a static design:
 1. Copy the above Markdown and paste it into your `README.md` file in the repo.
 2. Update or fill in sections:
    - Provide the exact CodePen URL in **Demo**.
-   - Add screenshots to a `/screenshots` folder and reference them.
    - Adjust sections if your design includes actual interactivity or frameworks.
 3. Commit and push to GitHub—or better yet, start hosting a live version online!
 
 ---
-
-**Need help with any particular section?** Whether it’s writing better feature descriptions, creating screenshots, or planning future enhancements, I’m here to assist—just let me know!
-::contentReference[oaicite:1]{index=1}
-
 
 
 
